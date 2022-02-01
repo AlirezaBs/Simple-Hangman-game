@@ -1,3 +1,4 @@
-# react-fkv6yl
+### Hello React world:)
+> this is a simple hangman game by React
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/react-fkv6yl)
+See demo on [GitHub pages](https://alirezabs.github.io/simple-hangman-game/) or [stackblitz](https://stackblitz.com/edit/react-fkv6yl) 
